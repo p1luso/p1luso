@@ -46,7 +46,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlCg/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="https://media.giphy.com/media/qgkrtsyk4PlYh2llKv/giphy.gif" alt="Developer working on code" width="400"/>
 </div>
 
 <br>
@@ -76,7 +76,7 @@
 <br>
 
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=p1luso&icon=3&color=BD93F9)](https://visitcount.itsvg.in)
+  <img src="https://visitcount.itsvg.in/api?id=p1luso&icon=3&color=BD93F9" alt="Profile views counter"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Gradient Divider">
