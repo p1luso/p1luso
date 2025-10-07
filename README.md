@@ -46,7 +46,7 @@
 </p>
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Coding_animations.gif" alt="Developer working on code" width="400"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/img/coding.gif" alt="Developer working on code" width="400"/>
 </div>
 
 <br>
@@ -76,7 +76,7 @@
 <br>
 
 <div align="center">
-  <img src="https://hits.seeyou.space/api/hits?url=https%3A%2F%2Fgithub.com%2Fp1luso&count_bg=%23BD93F9&title_bg=%23555555&icon=github.svg&color=white&title=VIEWS" alt="Profile views counter"/>
+  <img src="https://visitcount.itsvg.in/api?id=p1luso&icon=3&color=BD93F9" alt="Profile views counter"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Gradient Divider">
