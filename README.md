@@ -75,7 +75,4 @@
 
 <br>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=p1luso&icon=3&color=BD93F9" alt="Profile views counter"/>
-</div>
 
